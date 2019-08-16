@@ -1,0 +1,11 @@
+related to the accompanying libgcc_s_dw2-1.dll
+----------------------------------------------
+
+The MinGW and gcc distributions are comprised of several different
+packages. Each of the various packages is governed by its own
+individual copyright and licensing terms. Some of those packages are
+licensed by the GNU Public License (GPL) or the GNU Lesser General
+Public License(LGPL), some are licensed in the Public Domain and some
+have their own versions of a license.
+
+See MinGW.org for full source code and licensing details.
