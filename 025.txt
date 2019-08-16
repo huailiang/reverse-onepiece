@@ -1,0 +1,466 @@
+mesh count: 58 
+
+
+********* 0 **********
+start: 36c0, end: 39e0
+vertex addr: 000
+face   addr: 6a50
+face   cnt: 9882
+vertex cnt: 4536
+FVF addr:  58980
+
+********* 1 **********
+start: 39f0, end: 3d10
+vertex addr: 6f240
+face   addr: a19a0
+face   cnt: 7554
+vertex cnt: 2153
+FVF addr:  99310
+
+********* 2 **********
+start: 3d20, end: 3f00
+vertex addr: a54b0
+face   addr: c7230
+face   cnt: 5688
+vertex cnt: 1444
+FVF addr:  c17f0
+
+********* 3 **********
+start: 3f10, end: 40b0
+vertex addr: c9ea0
+face   addr: dec60
+face   cnt: 1728
+vertex cnt: 890
+FVF addr:  db4c0
+
+********* 4 **********
+start: 40c0, end: 4230
+vertex addr: df9e0
+face   addr: f2ee0
+face   cnt: 1596
+vertex cnt: 824
+FVF addr:  efb60
+
+********* 5 **********
+start: 4240, end: 43c0
+vertex addr: f3b60
+face   addr: fd5c0
+face   cnt: 480
+vertex cnt: 449
+FVF addr:  fc7b0
+
+********* 6 **********
+start: 43d0, end: 4510
+vertex addr: fd980
+face   addr: 105ae0
+face   cnt: 702
+vertex cnt: 345
+FVF addr:  104550
+
+********* 7 **********
+start: 4520, end: 4640
+vertex addr: 106060
+face   addr: 10c410
+face   cnt: 540
+vertex cnt: 290
+FVF addr:  10bb00
+
+********* 8 **********
+start: 4650, end: 4770
+vertex addr: 10c850
+face   addr: 114410
+face   cnt: 540
+vertex cnt: 360
+FVF addr:  1138d0
+
+********* 9 **********
+start: 4780, end: 48a0
+vertex addr: 114850
+face   addr: 116dd0
+face   cnt: 540
+vertex cnt: 109
+FVF addr:  116a60
+
+********* 10 **********
+start: 48b0, end: 4a70
+vertex addr: 117210
+face   addr: 11c910
+face   cnt: 588
+vertex cnt: 253
+FVF addr:  11c120
+
+********* 11 **********
+start: 4a80, end: 4c40
+vertex addr: 11cdb0
+face   addr: 1238f0
+face   cnt: 708
+vertex cnt: 312
+FVF addr:  122f30
+
+********* 12 **********
+start: 4c50, end: 4f10
+vertex addr: 123e80
+face   addr: 13ae0
+face   cnt: 840
+vertex cnt: 545
+FVF addr:  12e8d0
+
+********* 13 **********
+start: 4f20, end: 5380
+vertex addr: 131170
+face   addr: 15d930
+face   cnt: 7326
+vertex cnt: 1898
+FVF addr:  156290
+
+********* 14 **********
+start: 5390, end: 54e0
+vertex addr: 161270
+face   addr: 162030
+face   cnt: 108
+vertex cnt: 40
+FVF addr:  161ef0
+
+********* 15 **********
+start: 54f0, end: 5630
+vertex addr: 162110
+face   addr: 163140
+face   cnt: 120
+vertex cnt: 47
+FVF addr:  162fc0
+
+********* 16 **********
+start: 5640, end: 5790
+vertex addr: 163230
+face   addr: 1643c0
+face   cnt: 108
+vertex cnt: 51
+FVF addr:  164220
+
+********* 17 **********
+start: 57a0, end: 58e0
+vertex addr: 1644a0
+face   addr: 165160
+face   cnt: 120
+vertex cnt: 37
+FVF addr:  165030
+
+********* 18 **********
+start: 58f0, end: 5a40
+vertex addr: 165250
+face   addr: 166010
+face   cnt: 108
+vertex cnt: 40
+FVF addr:  165ed0
+
+********* 19 **********
+start: 5a50, end: 5b90
+vertex addr: 1660f0
+face   addr: 166fc0
+face   cnt: 108
+vertex cnt: 43
+FVF addr:  166e60
+
+********* 20 **********
+start: 5ba0, end: 5cf0
+vertex addr: 1670a0
+face   addr: 168070
+face   cnt: 120
+vertex cnt: 46
+FVF addr:  167f00
+
+********* 21 **********
+start: 5d00, end: 5e30
+vertex addr: 168160
+face   addr: 168f20
+face   cnt: 108
+vertex cnt: 40
+FVF addr:  168de0
+
+********* 22 **********
+start: 5e40, end: 5f50
+vertex addr: 16900
+face   addr: 16d10
+face   cnt: 1056
+vertex cnt: 189
+FVF addr:  16cb10
+
+********* 23 **********
+start: 5f60, end: 6090
+vertex addr: 16d940
+face   addr: 17b70
+face   cnt: 720
+vertex cnt: 146
+FVF addr:  1706e0
+
+********* 24 **********
+start: 60a0, end: 62f0
+vertex addr: 171110
+face   addr: 1738a0
+face   cnt: 309
+vertex cnt: 115
+FVF addr:  173500
+
+********* 25 **********
+start: 6300, end: 6430
+vertex addr: 173b10
+face   addr: 1788c0
+face   cnt: 936
+vertex cnt: 226
+FVF addr:  1781b0
+
+********* 26 **********
+start: 6440, end: 6570
+vertex addr: 179010
+face   addr: 17ddc0
+face   cnt: 936
+vertex cnt: 226
+FVF addr:  17d6b0
+
+********* 27 **********
+start: 6580, end: 66b0
+vertex addr: 17e510
+face   addr: 181740
+face   cnt: 720
+vertex cnt: 146
+FVF addr:  1812b0
+
+********* 28 **********
+start: 66c0, end: 67e0
+vertex addr: 181ce0
+face   addr: 1d550
+face   cnt: 16941
+vertex cnt: 3655
+FVF addr:  1c9310
+
+********* 29 **********
+start: 67f0, end: 6930
+vertex addr: 1d89b0
+face   addr: 1ea340
+face   cnt: 2004
+vertex cnt: 819
+FVF addr:  1e89a0
+
+********* 30 **********
+start: 6940, end: 6c00
+vertex addr: 1eb2f0
+face   addr: 21dde0
+face   cnt: 10116
+vertex cnt: 2359
+FVF addr:  219420
+
+********* 31 **********
+start: 6c10, end: 6d50
+vertex addr: 222cf0
+face   addr: 22a910
+face   cnt: 594
+vertex cnt: 331
+FVF addr:  229460
+
+********* 32 **********
+start: 6d60, end: 6e90
+vertex addr: 22adc0
+face   addr: 23510
+face   cnt: 426
+vertex cnt: 254
+FVF addr:  22fd20
+
+********* 33 **********
+start: 6ea0, end: 6fe0
+vertex addr: 23870
+face   addr: 238490
+face   cnt: 594
+vertex cnt: 331
+FVF addr:  236fe0
+
+********* 34 **********
+start: 6ff0, end: 7120
+vertex addr: 238940
+face   addr: 23e090
+face   cnt: 426
+vertex cnt: 254
+FVF addr:  23d8a0
+
+********* 35 **********
+start: 7130, end: 7270
+vertex addr: 23e3f0
+face   addr: 246010
+face   cnt: 594
+vertex cnt: 331
+FVF addr:  244b60
+
+********* 36 **********
+start: 7280, end: 73b0
+vertex addr: 2464c0
+face   addr: 24bc10
+face   cnt: 426
+vertex cnt: 254
+FVF addr:  24b420
+
+********* 37 **********
+start: 73c0, end: 7500
+vertex addr: 24bf70
+face   addr: 253bf0
+face   cnt: 594
+vertex cnt: 332
+FVF addr:  252730
+
+********* 38 **********
+start: 7510, end: 7640
+vertex addr: 2540a0
+face   addr: 2597a0
+face   cnt: 426
+vertex cnt: 253
+FVF addr:  258fb0
+
+********* 39 **********
+start: 7650, end: 7790
+vertex addr: 259b0
+face   addr: 261720
+face   cnt: 594
+vertex cnt: 331
+FVF addr:  260270
+
+********* 40 **********
+start: 77a0, end: 78d0
+vertex addr: 261bd0
+face   addr: 267320
+face   cnt: 426
+vertex cnt: 254
+FVF addr:  266b30
+
+********* 41 **********
+start: 78e0, end: 7a20
+vertex addr: 267680
+face   addr: 26f2a0
+face   cnt: 594
+vertex cnt: 331
+FVF addr:  26ddf0
+
+********* 42 **********
+start: 7a30, end: 7b60
+vertex addr: 26f750
+face   addr: 274ea0
+face   cnt: 426
+vertex cnt: 254
+FVF addr:  2746b0
+
+********* 43 **********
+start: 7b70, end: 7cb0
+vertex addr: 27520
+face   addr: 27cee0
+face   cnt: 594
+vertex cnt: 333
+FVF addr:  27ba10
+
+********* 44 **********
+start: 7cc0, end: 7df0
+vertex addr: 27d390
+face   addr: 282a90
+face   cnt: 426
+vertex cnt: 253
+FVF addr:  2822a0
+
+********* 45 **********
+start: 7e00, end: 7f40
+vertex addr: 282df0
+face   addr: 28aad0
+face   cnt: 594
+vertex cnt: 333
+FVF addr:  289600
+
+********* 46 **********
+start: 7f50, end: 8080
+vertex addr: 28af80
+face   addr: 29680
+face   cnt: 426
+vertex cnt: 253
+FVF addr:  28fe90
+
+********* 47 **********
+start: 8090, end: 81d0
+vertex addr: 299e0
+face   addr: 2986c0
+face   cnt: 594
+vertex cnt: 333
+FVF addr:  2971f0
+
+********* 48 **********
+start: 81e0, end: 8310
+vertex addr: 298b70
+face   addr: 29e270
+face   cnt: 426
+vertex cnt: 253
+FVF addr:  29da80
+
+********* 49 **********
+start: 8320, end: 8460
+vertex addr: 29e5d0
+face   addr: 2a62b0
+face   cnt: 594
+vertex cnt: 333
+FVF addr:  2a4de0
+
+********* 50 **********
+start: 8470, end: 85a0
+vertex addr: 2a6760
+face   addr: 2abe60
+face   cnt: 426
+vertex cnt: 253
+FVF addr:  2ab670
+
+********* 51 **********
+start: 85b0, end: 86f0
+vertex addr: 2ac1c0
+face   addr: 2b3ea0
+face   cnt: 594
+vertex cnt: 333
+FVF addr:  2b29d0
+
+********* 52 **********
+start: 8700, end: 8830
+vertex addr: 2b4350
+face   addr: 2b9a50
+face   cnt: 426
+vertex cnt: 253
+FVF addr:  2b9260
+
+********* 53 **********
+start: 8840, end: 8980
+vertex addr: 2b9db0
+face   addr: 2c1a90
+face   cnt: 594
+vertex cnt: 333
+FVF addr:  2c05c0
+
+********* 54 **********
+start: 8990, end: 8ac0
+vertex addr: 2c1f40
+face   addr: 2c7640
+face   cnt: 426
+vertex cnt: 253
+FVF addr:  2c6e50
+
+********* 55 **********
+start: 8ad0, end: 8c10
+vertex addr: 2c79a0
+face   addr: 2d9330
+face   cnt: 2004
+vertex cnt: 819
+FVF addr:  2d7990
+
+********* 56 **********
+start: 8c20, end: 8e20
+vertex addr: 2da2e0
+face   addr: 2dac80
+face   cnt: 42
+vertex cnt: 28
+FVF addr:  2daba0
+
+********* 57 **********
+start: 8e30, end: 90b0
+vertex addr: 2dace0
+face   addr: 2dc2a0
+face   cnt: 150
+vertex cnt: 58
+FVF addr:  2dbf00
