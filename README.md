@@ -1,4 +1,4 @@
-对端游《航海王-燃烧之血》的破解：
+# 对端游《航海王-燃烧之血》的破解
 
 主要是端游的端游资源的提取， 分别为网格mesh和纹理texture的获取.
 
@@ -17,7 +17,7 @@ pip install pillow
 
 ## steps:
 
-step1.  解压.cpk 
+#### step1.  解压.cpk 
 
 使用CPK File Builder对cpk解压， 你将得到三种文件 .npk .npki .npkv
 
@@ -28,12 +28,12 @@ step1.  解压.cpk
 <br><img src='img/CPK.png'><br>
 
 
-step2.  使用hex分析二进制文件 确认mesh中的vertiex&face的地址和数量
+#### step2.  使用hex分析二进制文件 确认mesh中的vertiex&face的地址和数量
 
 <br><img src='img/hex.jpg'><br>
 
 
-step3. 使用step2的参数输入到hex2obj中， 提取mesh
+#### step3. 使用step2的参数输入到hex2obj中， 提取mesh
 
 <br><img src='img/h2o.png'><br>
 
@@ -84,17 +84,20 @@ size   UVB: 8
 ```
 
 
-step4. 导出纹理
+#### step4. 导出纹理
 
-python传入两个参数即npk和npkv文件路径
+python传入前两个参数即npk和npkv文件路径， 第三个参数是输出路径
 
 ``` py 
-
+# 进入你的工作目录
+cd work_dir
+# 导出
 python parse_texture.py \
  /Users/penghuailiang/Documents/projects/tools/character_000.npk \
- /Users/penghuailiang/Documents/projects/tools/character_000.npkv 
+ /Users/penghuailiang/Documents/projects/tools/character_000.npkv \
+ /Users/penghuailiang/Documents/projects/tools/out/ 
 ```
 
 
-Contacts:
+## Contacts:
 	peng_huailiang@qq.com

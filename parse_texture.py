@@ -13,7 +13,7 @@ from PIL import Image
 
 npk_file = ""
 npkv_file = ""
-out_dir = "/Users/penghuailiang/Documents/projects/tools/out/"
+out_dir = ""
 
 def IsDefTxr(i, bits): 
 	"""
@@ -132,11 +132,11 @@ def FormatOutput(txr_list, ct0_list, bits):
 			c_len = bits[i_len+3] * 16**6 + bits[i_len+2] * 16**4 + bits[i_len+1] * 16**2 + bits[i_len] 
 			print(" - %02d, addr:0x%08x \tlength: %d"%(j, h_addr, c_len))
 			if j == 0:
-				open_img(names, width, height, h_addr,c_len, fmt, arg, bytespp)
+				save_img(names, width, height, h_addr,c_len, fmt, arg, bytespp)
 				break
 
 
-def open_img(name, width, height, mipmap_start, mipmap_len, fmt, arg, bytespp):
+def save_img(name, width, height, mipmap_start, mipmap_len, fmt, arg, bytespp):
 	
 	if npkv_file=="":
 		print(" npkv_file is empty")
@@ -195,11 +195,18 @@ def parse_npk(file):
 
 if __name__=='__main__':
 	arv= sys.argv
-	if ( len(arv) > 2 ):
+	if ( len(arv) > 3 ):
+		out_dir = sys.argv[3]
 		npkv_file = sys.argv[2]
-	if( len(arv) > 1):
 		npk_file = sys.argv[1]
-		parse_npk(npk_file)
+		if not os.path.exists(out_dir):
+			print("error: output directory is not exists")
+		elif not os.path.exists(npk_file):
+			print("error: npk file is invalid")
+		elif not os.path.exists(npkv_file):
+			print("error: npkv file is invalid")
+		else:
+			parse_npk(npk_file)
 	else:
-		print("error arg is invalid, please passin .npk file path")
+		print("error: arg is invalid, $1:.npk file path, $2: npkv file path, $3: output directory")
 		exit(1)
