@@ -99,12 +99,12 @@ python parse_texture.py \
 ```
 
 
-更多的信息请点击[这里][i1]。
+更多破解信息请点击[这里][i1]。
 
 
 ## Contacts:
-	email: 		peng_huailiang@qq.com
-	website: 	https://huailiang.github.io
+	email: 	  peng_huailiang@qq.com
+	website:  https://huailiang.github.io
 
 
 [i1]: https://huailiang.github.io/blog/2019/reverse/
